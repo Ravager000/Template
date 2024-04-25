@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.2
+Date: 2020-09-11
+  Features:
+    - More
+  Bugfixes:
+    - Crash
+  Changes:
+    - Significant code refactor
+  Other:
+    - Update for Factorio 1.0
+
+---------------------------------------------------------------------------------------------------
+Version: 0.0.1
+Date: 2020-09-10
+  Features:
+    - More
+  Bugfixes:
+    - Crash
+  Changes:
+    - Significant code refactor
+  Other:
+    - Update for Factorio 1.0
+
