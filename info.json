@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "title": "Template",
   "author": "Ravager000",
-  "homepage": "https://forums.factorio.com/",
+  "homepage": "https://github.com/Ravager000/Template",
   "description": "Template \n\n For Future mod.",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"
